@@ -1,0 +1,5 @@
+﻿  FileName.cpp
+C:\Users\Yushk_bh37\source\repos\Project11\Project11\FileName.cpp(47,11): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Yushk_bh37\source\repos\Project11\Project11\FileName.cpp(48,9): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Yushk_bh37\source\repos\Project11\Project11\FileName.cpp(49,11): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Project11.vcxproj -> C:\Users\Yushk_bh37\source\repos\Project11\x64\Debug\Project11.exe
